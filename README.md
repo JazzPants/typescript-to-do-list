@@ -1,4 +1,8 @@
-# New Project
+# Typescript-to-do-list
+
+## Description
+
+A simple typescript app for creating to-do tasks that save to local storage.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
